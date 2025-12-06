@@ -1,18 +1,14 @@
 {
-  "name": "world-cup-simulator",
+  "name": "worldcup-backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "../index.js",
+  "type": "module",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node src/index.js",
+    "generate": "node src/generate.js"
   },
-  "private": true,
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^5.2.1"
+    "express": "^4.19.2"
   }
 }

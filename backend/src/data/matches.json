@@ -1,1 +1,650 @@
-[]
+[
+  {
+    "id": 1,
+    "group": "A",
+    "home": "México",
+    "away": "Sudáfrica",
+    "goalsHome": 1,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 2,
+    "group": "A",
+    "home": "México",
+    "away": "Corea del Sur",
+    "goalsHome": 2,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 3,
+    "group": "A",
+    "home": "México",
+    "away": "Dinamarca",
+    "goalsHome": 0,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 4,
+    "group": "A",
+    "home": "Sudáfrica",
+    "away": "Corea del Sur",
+    "goalsHome": 1,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 5,
+    "group": "A",
+    "home": "Sudáfrica",
+    "away": "Dinamarca",
+    "goalsHome": 2,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 6,
+    "group": "A",
+    "home": "Corea del Sur",
+    "away": "Dinamarca",
+    "goalsHome": 2,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 7,
+    "group": "B",
+    "home": "Canadá",
+    "away": "Italia",
+    "goalsHome": 1,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 8,
+    "group": "B",
+    "home": "Canadá",
+    "away": "Catar",
+    "goalsHome": 3,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 9,
+    "group": "B",
+    "home": "Canadá",
+    "away": "Suiza",
+    "goalsHome": 0,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 10,
+    "group": "B",
+    "home": "Italia",
+    "away": "Catar",
+    "goalsHome": 1,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 11,
+    "group": "B",
+    "home": "Italia",
+    "away": "Suiza",
+    "goalsHome": 3,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 12,
+    "group": "B",
+    "home": "Catar",
+    "away": "Suiza",
+    "goalsHome": 1,
+    "goalsAway": 3,
+    "played": true
+  },
+  {
+    "id": 13,
+    "group": "C",
+    "home": "Brasil",
+    "away": "Marruecos",
+    "goalsHome": 2,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 14,
+    "group": "C",
+    "home": "Brasil",
+    "away": "Haití",
+    "goalsHome": 5,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 15,
+    "group": "C",
+    "home": "Brasil",
+    "away": "Escocia",
+    "goalsHome": 1,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 16,
+    "group": "C",
+    "home": "Marruecos",
+    "away": "Haití",
+    "goalsHome": 4,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 17,
+    "group": "C",
+    "home": "Marruecos",
+    "away": "Escocia",
+    "goalsHome": 3,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 18,
+    "group": "C",
+    "home": "Haití",
+    "away": "Escocia",
+    "goalsHome": 1,
+    "goalsAway": 4,
+    "played": true
+  },
+  {
+    "id": 19,
+    "group": "D",
+    "home": "USA",
+    "away": "Paraguay",
+    "goalsHome": 0,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 20,
+    "group": "D",
+    "home": "USA",
+    "away": "Australia",
+    "goalsHome": 1,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 21,
+    "group": "D",
+    "home": "USA",
+    "away": "Turquía",
+    "goalsHome": 3,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 22,
+    "group": "D",
+    "home": "Paraguay",
+    "away": "Australia",
+    "goalsHome": 1,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 23,
+    "group": "D",
+    "home": "Paraguay",
+    "away": "Turquía",
+    "goalsHome": 2,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 24,
+    "group": "D",
+    "home": "Australia",
+    "away": "Turquía",
+    "goalsHome": 1,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 25,
+    "group": "E",
+    "home": "Alemania",
+    "away": "Curazao",
+    "goalsHome": 5,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 26,
+    "group": "E",
+    "home": "Alemania",
+    "away": "Costa de Marfil",
+    "goalsHome": 4,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 27,
+    "group": "E",
+    "home": "Alemania",
+    "away": "Ecuador",
+    "goalsHome": 0,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 28,
+    "group": "E",
+    "home": "Curazao",
+    "away": "Costa de Marfil",
+    "goalsHome": 2,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 29,
+    "group": "E",
+    "home": "Curazao",
+    "away": "Ecuador",
+    "goalsHome": 0,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 30,
+    "group": "E",
+    "home": "Costa de Marfil",
+    "away": "Ecuador",
+    "goalsHome": 1,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 31,
+    "group": "F",
+    "home": "Países Bajos",
+    "away": "Japón",
+    "goalsHome": 2,
+    "goalsAway": 3,
+    "played": true
+  },
+  {
+    "id": 32,
+    "group": "F",
+    "home": "Países Bajos",
+    "away": "Suecia",
+    "goalsHome": 2,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 33,
+    "group": "F",
+    "home": "Países Bajos",
+    "away": "Túnez",
+    "goalsHome": 1,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 34,
+    "group": "F",
+    "home": "Japón",
+    "away": "Suecia",
+    "goalsHome": 0,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 35,
+    "group": "F",
+    "home": "Japón",
+    "away": "Túnez",
+    "goalsHome": 3,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 36,
+    "group": "F",
+    "home": "Suecia",
+    "away": "Túnez",
+    "goalsHome": 1,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 37,
+    "group": "G",
+    "home": "Bélgica",
+    "away": "Egipto",
+    "goalsHome": 2,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 38,
+    "group": "G",
+    "home": "Bélgica",
+    "away": "Irán",
+    "goalsHome": 2,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 39,
+    "group": "G",
+    "home": "Bélgica",
+    "away": "Nueva Zelanda",
+    "goalsHome": 4,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 40,
+    "group": "G",
+    "home": "Egipto",
+    "away": "Irán",
+    "goalsHome": 0,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 41,
+    "group": "G",
+    "home": "Egipto",
+    "away": "Nueva Zelanda",
+    "goalsHome": 1,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 42,
+    "group": "G",
+    "home": "Irán",
+    "away": "Nueva Zelanda",
+    "goalsHome": 3,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 43,
+    "group": "H",
+    "home": "España",
+    "away": "Cabo Verde",
+    "goalsHome": 7,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 44,
+    "group": "H",
+    "home": "España",
+    "away": "Arabia Saudita",
+    "goalsHome": 1,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 45,
+    "group": "H",
+    "home": "España",
+    "away": "Uruguay",
+    "goalsHome": 0,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 46,
+    "group": "H",
+    "home": "Cabo Verde",
+    "away": "Arabia Saudita",
+    "goalsHome": 2,
+    "goalsAway": 3,
+    "played": true
+  },
+  {
+    "id": 47,
+    "group": "H",
+    "home": "Cabo Verde",
+    "away": "Uruguay",
+    "goalsHome": 0,
+    "goalsAway": 3,
+    "played": true
+  },
+  {
+    "id": 48,
+    "group": "H",
+    "home": "Arabia Saudita",
+    "away": "Uruguay",
+    "goalsHome": 0,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 49,
+    "group": "I",
+    "home": "Francia",
+    "away": "Senegal",
+    "goalsHome": 2,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 50,
+    "group": "I",
+    "home": "Francia",
+    "away": "Bolivia",
+    "goalsHome": 3,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 51,
+    "group": "I",
+    "home": "Francia",
+    "away": "Noruega",
+    "goalsHome": 2,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 52,
+    "group": "I",
+    "home": "Senegal",
+    "away": "Bolivia",
+    "goalsHome": 2,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 53,
+    "group": "I",
+    "home": "Senegal",
+    "away": "Noruega",
+    "goalsHome": 0,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 54,
+    "group": "I",
+    "home": "Bolivia",
+    "away": "Noruega",
+    "goalsHome": 1,
+    "goalsAway": 4,
+    "played": true
+  },
+  {
+    "id": 55,
+    "group": "J",
+    "home": "Argentina",
+    "away": "Argelia",
+    "goalsHome": 1,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 56,
+    "group": "J",
+    "home": "Argentina",
+    "away": "Austria",
+    "goalsHome": 3,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 57,
+    "group": "J",
+    "home": "Argentina",
+    "away": "Jordania",
+    "goalsHome": 3,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 58,
+    "group": "J",
+    "home": "Argelia",
+    "away": "Austria",
+    "goalsHome": 2,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 59,
+    "group": "J",
+    "home": "Argelia",
+    "away": "Jordania",
+    "goalsHome": 1,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 60,
+    "group": "J",
+    "home": "Austria",
+    "away": "Jordania",
+    "goalsHome": 4,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 61,
+    "group": "K",
+    "home": "Portugal",
+    "away": "Jamaica",
+    "goalsHome": 4,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 62,
+    "group": "K",
+    "home": "Portugal",
+    "away": "Uzbekistán",
+    "goalsHome": 1,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 63,
+    "group": "K",
+    "home": "Portugal",
+    "away": "Colombia",
+    "goalsHome": 1,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 64,
+    "group": "K",
+    "home": "Jamaica",
+    "away": "Uzbekistán",
+    "goalsHome": 3,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 65,
+    "group": "K",
+    "home": "Jamaica",
+    "away": "Colombia",
+    "goalsHome": 1,
+    "goalsAway": 3,
+    "played": true
+  },
+  {
+    "id": 66,
+    "group": "K",
+    "home": "Uzbekistán",
+    "away": "Colombia",
+    "goalsHome": 0,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 67,
+    "group": "L",
+    "home": "Inglaterra",
+    "away": "Croacia",
+    "goalsHome": 4,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 68,
+    "group": "L",
+    "home": "Inglaterra",
+    "away": "Ghana",
+    "goalsHome": 1,
+    "goalsAway": 1,
+    "played": true
+  },
+  {
+    "id": 69,
+    "group": "L",
+    "home": "Inglaterra",
+    "away": "Panamá",
+    "goalsHome": 2,
+    "goalsAway": 0,
+    "played": true
+  },
+  {
+    "id": 70,
+    "group": "L",
+    "home": "Croacia",
+    "away": "Ghana",
+    "goalsHome": 3,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 71,
+    "group": "L",
+    "home": "Croacia",
+    "away": "Panamá",
+    "goalsHome": 2,
+    "goalsAway": 2,
+    "played": true
+  },
+  {
+    "id": 72,
+    "group": "L",
+    "home": "Ghana",
+    "away": "Panamá",
+    "goalsHome": 2,
+    "goalsAway": 0,
+    "played": true
+  }
+]
